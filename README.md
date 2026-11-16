@@ -1,5 +1,3 @@
-# Johnson Lab Ligand Receptor Project
+# Description
 
-This repo contains all code and data for the project by Sep Kamal, an MSc student at UBC.
-
-Test commit
+This repository contains all code and data for ligand-receptor interactions analysis portion of our paper **A prioritized medium-throughput screen identifies fibroblast growth factors as protective for human stem cell-derived insulin secreting beta cells** (Stem Cell Reports 2026)
